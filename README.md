@@ -1,5 +1,5 @@
 # Data Analysis
-
+Projects made for Data Analysis for Physicists course (FIS01082) - UFRGS 
 ## Content
  - Project 1 - Autorregressive Model
     > AR model applied to S&P 500 Financial Returns 
